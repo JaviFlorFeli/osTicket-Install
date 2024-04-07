@@ -105,7 +105,7 @@ Provide a path to the php executable file (php-cgi.exe)). Click on the three dot
    - Extract and copy "upload" folder to c:\inetpub\wwwroot 
    - Within c:\inetpub\root, Rename "upload" to "osTicket"
 
-  <img src="https://i.imgur.com/73kPfNa.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>  
+  <img src="https://i.imgur.com/73kPfNa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
  
  Reload IIS
 
