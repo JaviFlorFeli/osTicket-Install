@@ -68,8 +68,6 @@ The next step is to install/ enable IIS with CGI and Common HTTP Features.
 
 From the installation files, download PHP 7.3.8((php-7.3.88-nts-Win32-VC15-x866.zip). Theres a chance you may recieve a warning on the file. If so, choose to "keep" the file and continue.
 
- <img src="https://i.imgur.com/UzVbYTM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
  After downloading PHP unzip the contents into the C:\PHP folder.
 
   <img src="https://i.imgur.com/D50jGFl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
